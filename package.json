@@ -1,0 +1,22 @@
+{
+  "name": "btcwallet",
+  "version": "1.0.0",
+  "description": "Este projeto foi feito desenvolvido para fins de estudo no Bootcamp de Blockchain da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "blockchain",
+    "btc",
+    "nodejs",
+    "crypto"
+  ],
+  "author": "Adilson Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.2"
+  }
+}
